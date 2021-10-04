@@ -12,7 +12,7 @@
 	<body>
 		
 		<div class="container" style="margin-top: 50px">
-		
+<!-- if statement php to selected operation aritmatic using -->
 			<?php
 			
 				// If the submit button has been pressed
